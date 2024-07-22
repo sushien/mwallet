@@ -82,8 +82,8 @@
     ],
     "capabilities": {
         "deepLink": {
-            "value": "",
-            "enabled": false,
+            "value": "makeitnative",
+            "enabled": true,
             "android": {
                 "webLinks": [
                     {
